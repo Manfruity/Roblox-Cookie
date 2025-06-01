@@ -1,14 +1,14 @@
 # Roblox-Cookie
 Roblox Cookie Finder &amp; Checker - No proxies needed
 
-Usage
+# Usage
 pip install requests
 
 pip install pyqt6
 
 Run "RobloxCookie.py"
 
-Features
+# Features
 
 Search for cookies
 
